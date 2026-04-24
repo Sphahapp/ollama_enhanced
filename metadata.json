@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: Ollama Ultra Terminal",
+  "description": "A high-performance terminal interface for managing and running local LLMs via Ollama with GPU-accelerated rendering and resource management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
